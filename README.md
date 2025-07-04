@@ -58,7 +58,9 @@ Make sure Python 3.10+ is installed. Then install required libraries:
 > If you’re using Pipfile run:
 
 pipenv install
- 
+pip install langchain langchain-openai
+pip install streamlit
+
 Required packages include:
 
 streamlit – for the web UI
