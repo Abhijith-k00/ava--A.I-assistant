@@ -55,9 +55,7 @@ OPENROUTER_API_KEY=your-real-api-key-here
 
 Make sure Python 3.10+ is installed. Then install required libraries:
 
-pip install -r requirements.txt
-
-> If you’re using Pipfile instead of requirements.txt, run:
+> If you’re using Pipfile run:
 
 pipenv install
  
