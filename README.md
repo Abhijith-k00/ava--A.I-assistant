@@ -84,10 +84,9 @@ Your browser will open the app (usually at: http://localhost:8501)
 
 ## 📸 Screenshots
 
-> Add screenshots of the app here. For example:
-> - Chat UI interface
-> - Sidebar with chat history
-> - Response flow with memory
+![Screenshot 2025-07-04 212900](https://github.com/user-attachments/assets/06664bf3-f8c0-408a-85e3-d6edef70ad99)
+![Screenshot 2025-07-04 221201](https://github.com/user-attachments/assets/32793d8d-bd17-47f8-b6ca-0d758bc6025b)
+![Screenshot 2025-07-04 221306](https://github.com/user-attachments/assets/eade9e62-b4fc-4e3b-bc67-b38cd69b9d80)
 
 ---
 
