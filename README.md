@@ -34,10 +34,9 @@ ava-chat/
 
 ### 🔹 Step 1: Clone the Repository
 
-\`\`\`bash
 git clone https://github.com/Abhijith-k00/ava--A.I-assistant.git
+
 cd ava--A.I-assistant
-\`\`\`
 
 ---
 
@@ -45,9 +44,7 @@ cd ava--A.I-assistant
 
 Create a \`.env\` file in the root folder and paste your OpenRouter API key:
 
-\`\`\`env
 OPENROUTER_API_KEY=your-real-api-key-here
-\`\`\`
 
 > ⚠️ **Important:** Do NOT upload this file to GitHub.  
 > Instead, share only \`.env.example\` for others to use.
@@ -58,15 +55,11 @@ OPENROUTER_API_KEY=your-real-api-key-here
 
 Make sure Python 3.10+ is installed. Then install required libraries:
 
-\`\`\`bash
 pip install -r requirements.txt
-\`\`\`
 
 > If you’re using Pipfile instead of requirements.txt, run:
 
-\`\`\`bash
 pipenv install
-\`\`\`
 
 ---
 
@@ -74,9 +67,7 @@ pipenv install
 
 To launch the chatbot interface:
 
-\`\`\`bash
 streamlit run chat_ui.py
-\`\`\`
 
 Your browser will open the app (usually at: http://localhost:8501)
 
