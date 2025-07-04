@@ -60,6 +60,16 @@ pip install -r requirements.txt
 > If you’re using Pipfile instead of requirements.txt, run:
 
 pipenv install
+ 
+Required packages include:
+
+streamlit – for the web UI
+
+langchain – for LLM agent orchestration
+
+openai – to connect to OpenAI or compatible LLMs
+
+python-dotenv – to manage API keys via .env files
 
 ---
 
